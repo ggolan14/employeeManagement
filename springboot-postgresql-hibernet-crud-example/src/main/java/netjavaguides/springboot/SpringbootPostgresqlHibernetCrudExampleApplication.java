@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootPostgresqlHibernetCrudExampleApplication {
 
 	public static void main(String[] args) {
+		// test comment
 		SpringApplication.run(SpringbootPostgresqlHibernetCrudExampleApplication.class, args);
 	}
 
